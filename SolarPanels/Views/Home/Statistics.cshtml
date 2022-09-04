@@ -1,0 +1,118 @@
+﻿@model IEnumerable<SolarPanels.Models.Entites.SensorsReading>
+
+@{
+    ViewData["Title"] = "Statistics";
+}
+
+<div class="container-fluid">
+    <div class="row welcome text-center d-flex justify-content-center">
+        <h1 style="font-size:25px" class="display-4">Here where you can make statistics and expectations about the gaining current across a certain dates.</h1>
+        <hr>
+    </div>
+</div>
+<div class="row">
+    <div class="card" style="border-color:black;height:270px;margin-top:80px;margin-left:30px">
+        <div class="card-body">
+            <form>
+                <fieldset disabled>
+                    <div class="form-group">
+                        <Label style="background-color:white; font-size:large">Enter Start Date:</Label>
+                        <div class="input-group date form_datetime" data-date="2020-01-01T05:25:07Z" data-date-format="dd MM yyyy - HH:ii p" data-link-field="dtp_input1" style="width:300px">
+                            <input id="min" class="form-control" type="text" style="font-size:20px" readonly />
+                            <span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span>
+                            <span class="input-group-addon"><span class="glyphicon glyphicon-remove"></span></span>
+                        </div>
+                        <div class="form-group">
+                            <Label style="background-color:white; font-size:large">Enter End Date:</Label>
+                            <div class="input-group date form_datetime" data-date="2020-01-01T05:25:07Z" data-date-format="dd MM yyyy - HH:ii p" data-link-field="dtp_input1" style="width:300px">
+                                <input id="max" class="form-control" type="text" style="font-size:20px" readonly />
+                                <span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span>
+                                <span class="input-group-addon"><span class="glyphicon glyphicon-remove"></span></span>
+                            </div>
+                        </div>
+                    </div>
+                </fieldset>
+            </form>
+        </div>
+    </div>
+    <div class="col-8 container rounded" style="background-color: white;">
+        <table class="table-striped table-bordered" id="Readings">
+            <thead>
+                <tr class="bg-dark" style="color:white">
+                    <th>Sensor ID</th>
+                    <th>Current</th>
+                    <th>Date</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.SensorID)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.current)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.AddedDate)
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+@section scripts{
+
+
+    <script>
+        $('.form_datetime').datetimepicker({
+            //language:  'fr',
+            format: 'm/dd/yyyy H:ii:ss P',
+            weekStart: 1,
+            todayBtn: 1,
+            autoclose: 1,
+            todayHighlight: 1,
+            startView: 2,
+            forceParse: 0,
+            showMeridian: 1
+        });
+        $(document).ready(function () {
+            $.fn.dataTable.ext.search.push(
+                function (settings, data, dataIndex) {
+                    var min = $('#min').val();
+                    var max = $('#max').val();
+
+
+                    var startDate = data[2];
+
+                    if (min == "" && max == "") {
+                        return true;
+                    }
+                    if (min == "" && startDate <= max) {
+                        return true;
+                    }
+                    if (max == "" && startDate >= min) {
+                        return true;
+                    }
+                    if (startDate <= max && startDate >= min) {
+                        return true;
+                    }
+                    return false;
+                }
+            );
+            var table = $("#Readings").DataTable({
+                dom: 'lBfrtip',
+                buttons: [
+                    'pdf', 'copy', 'excel', 'print'
+                ]
+            });
+            $('#min, #max').change(function () {
+                table.draw();
+            });
+        });
+    </script>
+}
+
+

@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewData["Title"] = "Control";
+}
+
+<!-- Top of the page !-->
+
+<div class="container-fluid padding">
+    <div class="row welcome text-center d-flex justify-content-center">
+        <div class="col-7">
+            <h1 class="display-4">There's two Modes to control the solar panels</h1>
+        </div>
+        <hr>
+        <p class"lead" style="font-family: 'poppins', sans-serif">In this project, a smart solar panel are controlled by an automatic system in order to follow the movement of the sun. The built system successfully maximized the solar energy gain. <br /><br />You can only choose one of the following options down below to have the desired function tool:</p>
+    </div>
+</div>
+
+<!--- Two Column Section -->
+
+@using (Html.BeginForm(FormMethod.Post))
+{
+    <div class="container-fluid">
+        <div class="row padding">
+            <div class="col-md-12 col-lg-6">
+                <h2>Automatic Control</h2>
+                <p>You can only select this option to let the sensors choose the path by tracking the sunlight.</p>
+                <input class="btn btn-primary" style="background-color: #6648b1;border: 1px solid #563d7c; font-size:large" type="submit" value="Click to use Automatic Control" formaction="@Url.Action("AutomaticControl","Home")" />
+            </div>
+            <div class="col-lg-6">
+                <h2>Manual Control</h2>
+                <p>Simply by navigate the panels by choosing the selected angle.</p>
+                <input class="btn btn-primary" style="background-color: #6648b1;border: 1px solid #563d7c;font-size:large" type="submit" value="Click to use Manual Control" formaction="@Url.Action("ManualControl","Home")" />
+            </div>
+        </div>
+        <br />
+    </div>
+}

@@ -1,0 +1,464 @@
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SolarPanels.exe
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\staticwebassets\SolarPanels.StaticWebAssets.Manifest.cache
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\staticwebassets\SolarPanels.StaticWebAssets.xml
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.RazorAssemblyInfo.cache
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.RazorAssemblyInfo.cs
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.AssemblyInfoInputs.cache
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.AssemblyInfo.cs
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.TagHelpers.input.cache
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.TagHelpers.output.cache
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.RazorCoreGenerate.cache
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.RazorTargetAssemblyInfo.cache
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.RazorTargetAssemblyInfo.cs
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.csproj.CopyComplete
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SolarPanels.deps.json
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SolarPanels.runtimeconfig.json
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SolarPanels.runtimeconfig.dev.json
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SolarPanels.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SolarPanels.pdb
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SolarPanels.Views.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SolarPanels.Views.pdb
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.Views.pdb
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.pdb
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.Data.Sqlite.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SQLitePCLRaw.core.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Home\HomePage.cshtml.g.cs
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Home\Control.cshtml.g.cs
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Home\ManualControl.cshtml.g.cs
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\libman.json
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Home\Statistics.cshtml.g.cs
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Home\LiveReadings.cshtml.g.cs
+C:\Users\hhhhh\Downloads\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Home\AutomaticControl.cshtml.g.cs
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\libman.json
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SolarPanels.exe
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SolarPanels.deps.json
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SolarPanels.runtimeconfig.json
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SolarPanels.runtimeconfig.dev.json
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SolarPanels.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SolarPanels.pdb
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SolarPanels.Views.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SolarPanels.Views.pdb
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.Data.Sqlite.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SQLitePCLRaw.core.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.csprojAssemblyReference.cache
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\staticwebassets\SolarPanels.StaticWebAssets.Manifest.cache
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\staticwebassets\SolarPanels.StaticWebAssets.xml
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.RazorAssemblyInfo.cache
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.RazorAssemblyInfo.cs
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.AssemblyInfoInputs.cache
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.AssemblyInfo.cs
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.TagHelpers.input.cache
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.TagHelpers.output.cache
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.RazorCoreGenerate.cache
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Home\AutomaticControl.cshtml.g.cs
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Home\Control.cshtml.g.cs
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Home\HomePage.cshtml.g.cs
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Home\LiveReadings.cshtml.g.cs
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Home\ManualControl.cshtml.g.cs
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Home\Statistics.cshtml.g.cs
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.RazorTargetAssemblyInfo.cache
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.RazorTargetAssemblyInfo.cs
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.Views.pdb
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.csproj.CopyComplete
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.dll
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.pdb
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Panels\Create.cshtml.g.cs
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Panels\Delete.cshtml.g.cs
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Panels\Details.cshtml.g.cs
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Panels\Edit.cshtml.g.cs
+C:\Users\hhhhh\Downloads\Upgraded (using .Net core)\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Panels\Index.cshtml.g.cs
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.pdb
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\appsettings.Development.json
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\appsettings.json
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\libman.json
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SolarPanels.exe
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SolarPanels.deps.json
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SolarPanels.runtimeconfig.json
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SolarPanels.runtimeconfig.dev.json
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SolarPanels.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SolarPanels.pdb
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SolarPanels.Views.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SolarPanels.Views.pdb
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\staticwebassets\SolarPanels.StaticWebAssets.Manifest.cache
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\staticwebassets\SolarPanels.StaticWebAssets.xml
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.RazorAssemblyInfo.cache
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.RazorAssemblyInfo.cs
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.AssemblyInfoInputs.cache
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.AssemblyInfo.cs
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.TagHelpers.input.cache
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.TagHelpers.output.cache
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.RazorCoreGenerate.cache
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Home\About.cshtml.g.cs
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Home\AutomaticControl.cshtml.g.cs
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Home\Control.cshtml.g.cs
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Home\HomePage.cshtml.g.cs
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Home\LiveReadings.cshtml.g.cs
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Home\ManualControl.cshtml.g.cs
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Home\Statistics.cshtml.g.cs
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Panels\Create.cshtml.g.cs
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Panels\Delete.cshtml.g.cs
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Panels\Details.cshtml.g.cs
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Panels\Edit.cshtml.g.cs
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Panels\Index.cshtml.g.cs
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.RazorTargetAssemblyInfo.cache
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.RazorTargetAssemblyInfo.cs
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.Views.pdb
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.csproj.CopyComplete
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.Data.Sqlite.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SQLitePCLRaw.batteries_v2.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SQLitePCLRaw.nativelibrary.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SQLitePCLRaw.core.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Educational courses\University\Year 4\The Graduation Project\Versions\WebAPI Version Upgraded (.NET Core) With Panels Table\SolarPanels\SolarPanels\obj\Debug\netcoreapp3.0\SolarPanels.MvcApplicationPartsAssemblyInfo.cache

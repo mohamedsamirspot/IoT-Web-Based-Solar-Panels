@@ -1,0 +1,72 @@
+﻿
+@model IEnumerable<SolarPanels.Models.Entites.SensorsReading>
+
+@{
+    ViewData["Title"] = "AutomaticControl";
+}
+
+<head>
+    <style>
+        .dt-TextAlignCenter {
+            text-align: center;
+        }
+    </style>
+</head>
+<marquee direction="right" scrollamount="25" style="color:black;background-color:#ddd;height:30px"><p style="font-size:20px">Automatic Mode Is On</p></marquee>
+
+<div class="container-fluid padding">
+    <div class="row padding">
+        <div class="col-md-12 col-lg-6">
+            <h2>Automatic Controling</h2>
+            <p>Automatic Controling is simply clicking on the automatic controling button to let the sensor track the sun for the perfect spot to get the maximum DC.</p>
+            <br>
+
+        </div>
+        <div class="col-lg-6">
+            <h5>The position of the sun according to the panel's position.</h5>
+            <table id="SunPositionTable" style=" font-family:Sans-serif;font-size:small" class=" table table-striped table-hover table-bordered">
+                <thead class="thead-dark">
+                    <tr>
+                        <th>Altitude Angle (degrees)</th>
+                        <th>Azimuth Angle (degrees)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Altitude)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Azimuth)
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+
+<hr class="my-4">
+
+
+
+
+
+@section scripts{
+    <script>
+        $(document).ready(function () {
+            $("#SunPositionTable").DataTable({
+                "searching": false,
+                "ordering": false,
+                "bPaginate": false,
+                "bLengthChange": false,
+                "bFilter": true,
+                "bInfo": false,
+            });
+        }
+    </script>
+}

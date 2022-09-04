@@ -1,0 +1,114 @@
+﻿
+@{
+    ViewData["Title"] = "ManualControl";
+}
+
+<head>
+    <style>
+
+        .container {
+            position: relative;
+            width: 100%;
+            max-width: 400px;
+        }
+
+            .container img {
+                width: 100%;
+                height: auto;
+            }
+
+            .container .btn1 {
+                position: absolute;
+                top: -10%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                -ms-transform: translate(-50%, -50%);
+                background-color: #555;
+                color: white;
+                font-size: 16px;
+                padding: 12px 24px;
+                border: none;
+                cursor: pointer;
+                border-radius: 5px;
+                text-align: center;
+            }
+
+            .container .btn2 {
+                position: absolute;
+                top: 110%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                -ms-transform: translate(-50%, -50%);
+                background-color: #555;
+                color: white;
+                font-size: 16px;
+                padding: 12px 24px;
+                border: none;
+                cursor: pointer;
+                border-radius: 5px;
+                text-align: center;
+            }
+
+            .container .btn3 {
+                position: absolute;
+                top: 50%;
+                left: -10%;
+                transform: translate(-50%, -50%);
+                -ms-transform: translate(-50%, -50%);
+                background-color: #555;
+                color: white;
+                font-size: 16px;
+                padding: 12px 24px;
+                border: none;
+                cursor: pointer;
+                border-radius: 5px;
+                text-align: center;
+            }
+
+            .container .btn4 {
+                position: absolute;
+                top: 50%;
+                left: 110%;
+                transform: translate(-50%, -50%);
+                -ms-transform: translate(-50%, -50%);
+                background-color: #555;
+                color: white;
+                font-size: 16px;
+                padding: 12px 24px;
+                border: none;
+                cursor: pointer;
+                border-radius: 5px;
+                text-align: center;
+            }
+
+
+            .container .btn:hover {
+                background-color: black;
+            }
+    </style>
+</head>
+<!--- Two Column Section -->
+@using (Html.BeginForm(FormMethod.Post))
+{
+    <div class="container-fluid padding">
+        <div class="row padding">
+            <div class="col-md-12 col-lg-6">
+                <h2>Manual Controling</h2>
+                <p> Manual Controling is simply clicking on the demanded directions.</p>
+                <p>Each click moves the panel by 5˚ conitinously every 1 second until you press the stop button.</p>
+                <input class="btn btn-dark" style="font-size:x-large" type="submit" value="Stop Moving" formaction="@Url.Action("StopMoving", "Home")" />
+                <br>
+            </div>
+            <div class="col-lg-6">
+                <div class="container">
+                    <img src="~/Images/sp2.jpg" alt="Solarpanel" style="width:100%" />
+                    <input class="btn1" style="font-size:x-large" type="submit" value="&#11014" formaction="@Url.Action("UpDirection", "Home")" />
+                    <input class="btn2" style="font-size:x-large" type="submit" value="&#11015" formaction="@Url.Action("DownDirection", "Home")" />
+                    <input class="btn3" style="font-size:x-large" type="submit" value="&#11013" formaction="@Url.Action("LeftDirection", "Home")" />
+                    <input class="btn4" style="font-size:x-large" type="submit" value="&#10145" formaction="@Url.Action("RightDirection", "Home")" />
+                </div>
+            </div>
+        </div>
+    </div>
+}
+<hr class="my-4">
